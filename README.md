@@ -1,10 +1,11 @@
 +----------------------------------------------------------------------------+
+
 <<<<<< README >>>>>>
 
 CREADO POR: Jose Alejandro Viveros Rotonda
 CURSO: 1ro C
 
-<<<<<< Descripcion del trabajo >>>>>>
+<<<<<< Descripción >>>>>>
 
 Mi trabajo fue crear una pagina web con un tema a elegir. Elegi el tema de la ciberseguridad,
 creando así una pagina que vende cursos de ciberseguridad.
@@ -14,7 +15,7 @@ Añadi imagenes relacionadas con el tema, personalize los enlaces, añadi un "me
 cree un "CV" para mi, puse 2 formularios (uno para comprar el curso y otro para dudas),
 cree un logo para la pagina, cree una archivo LICENSE y README, etc...
 
-<<<<<< Dificultades en el trabajo >>>>>>
+<<<<<< Dificultades >>>>>>
 
 Es mi primera vez en HTML, pero me parece que el lenguaje es bastante comprensible. 
 Sin embargo, tuve dificultades al cambiar varios objetos en CSS y al encontrar una imagen que no aparecía en el código fuente de la página. 
